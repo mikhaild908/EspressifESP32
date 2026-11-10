@@ -379,6 +379,14 @@ bool loadTestEvents()
 {
   static const char testEventJson[] = R"json(
 [
+   {
+    "ID": 2,
+    "SourceId": "347507",
+    "Organization": "Tucson",
+    "RoadwayName": "AJO WASH BRIDGE CLOSURE, AJO ARIZONA, TUESDAY, MARCH 26",
+    "DirectionOfTravel": null,
+    "Description": "AJO WASH BRIDGE CLOSURE, AJO ARIZONA, TUESDAY, MARCH 26 - Traffic control devices and signage are on-site.  Please approach the area with caution and obey all traffic control devices."
+  },
   {
     "ID": 3,
     "SourceId": "359004",
