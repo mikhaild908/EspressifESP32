@@ -1,0 +1,4 @@
+https://javl.github.io/image2cpp/
+
+image2cpp is a simple tool to convert images into byte arrays (and vice versa) for use with small (monochrome) displays such as OLEDs on your Arduino or ESP.
+It was originally made to work with the Adafruit OLED library (for which your can find an example Arduino sketch here) but has been expanded by the community.
